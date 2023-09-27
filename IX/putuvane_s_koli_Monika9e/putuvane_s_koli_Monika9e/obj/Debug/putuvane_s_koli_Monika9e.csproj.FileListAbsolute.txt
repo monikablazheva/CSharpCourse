@@ -1,0 +1,7 @@
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\bin\Debug\putuvane_s_koli_Monika9e.exe.config
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\bin\Debug\putuvane_s_koli_Monika9e.exe
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\bin\Debug\putuvane_s_koli_Monika9e.pdb
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\obj\Debug\putuvane_s_koli_Monika9e.csprojAssemblyReference.cache
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\obj\Debug\putuvane_s_koli_Monika9e.csproj.CoreCompileInputs.cache
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\obj\Debug\putuvane_s_koli_Monika9e.exe
+D:\School\C#\putuvane_s_koli_Monika9e\putuvane_s_koli_Monika9e\obj\Debug\putuvane_s_koli_Monika9e.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\bin\Debug\TriugulnikPAndS.exe.config
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\bin\Debug\TriugulnikPAndS.exe
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\bin\Debug\TriugulnikPAndS.pdb
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\obj\Debug\TriugulnikPAndS.csprojAssemblyReference.cache
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\obj\Debug\TriugulnikPAndS.csproj.CoreCompileInputs.cache
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\obj\Debug\TriugulnikPAndS.exe
+D:\School\C#\TriugulnikPAndS\TriugulnikPAndS\obj\Debug\TriugulnikPAndS.pdb

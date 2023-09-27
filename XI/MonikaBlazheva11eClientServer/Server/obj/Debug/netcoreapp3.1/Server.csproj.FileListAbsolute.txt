@@ -1,0 +1,17 @@
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Model.dll
+D:\School\C#\MonikaBlazheva11eClientServer\Server\bin\Debug\netcoreapp3.1\Model.pdb
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\School\C#\MonikaBlazheva11eClientServer\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

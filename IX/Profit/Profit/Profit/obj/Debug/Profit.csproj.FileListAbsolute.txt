@@ -1,0 +1,8 @@
+D:\Monika 9e\Profit\Profit\bin\Debug\Profit.exe.config
+D:\School\C#\Profit\Profit\Profit\bin\Debug\Profit.exe.config
+D:\School\C#\Profit\Profit\Profit\bin\Debug\Profit.exe
+D:\School\C#\Profit\Profit\Profit\bin\Debug\Profit.pdb
+D:\School\C#\Profit\Profit\Profit\obj\Debug\Profit.csprojAssemblyReference.cache
+D:\School\C#\Profit\Profit\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+D:\School\C#\Profit\Profit\Profit\obj\Debug\Profit.exe
+D:\School\C#\Profit\Profit\Profit\obj\Debug\Profit.pdb

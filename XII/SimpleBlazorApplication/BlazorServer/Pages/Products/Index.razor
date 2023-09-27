@@ -1,0 +1,47 @@
+﻿@page "/product/index"
+@using BusinessLayer;
+@using ServiceLayer;
+
+<h3>Index</h3>
+<a href="product/create">Create</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in model)
+        {
+            <tr>
+                <td>
+                    @product.Name
+                </td>
+                <td>
+                    <a href="product/update/@product.Barcode/@product.Name/@product.Quantity/@product.Price/@product.BrandId">Edit</a> |
+                    <a href="product/details/@product.Barcode">Details</a> |
+                    <a href="product/delete/@product.Barcode/@product.Name/@product.Quantity/@product.Price">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code 
+{
+    private DbManager<Product, string> productManager = new DbManager<Product, string>(ContextGenerator.GetProductContext());
+    private IEnumerable<Product> model = new List<Product>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await productManager.ReadAllAsync();
+
+        await base.OnInitializedAsync();
+    }
+
+
+}

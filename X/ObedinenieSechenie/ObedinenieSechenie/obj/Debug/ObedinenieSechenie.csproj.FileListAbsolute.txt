@@ -1,0 +1,7 @@
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\bin\Debug\ObedinenieSechenie.exe.config
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\bin\Debug\ObedinenieSechenie.exe
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\bin\Debug\ObedinenieSechenie.pdb
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\obj\Debug\ObedinenieSechenie.csprojAssemblyReference.cache
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\obj\Debug\ObedinenieSechenie.csproj.CoreCompileInputs.cache
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\obj\Debug\ObedinenieSechenie.exe
+D:\School\C#\ObedinenieSechenie\ObedinenieSechenie\obj\Debug\ObedinenieSechenie.pdb

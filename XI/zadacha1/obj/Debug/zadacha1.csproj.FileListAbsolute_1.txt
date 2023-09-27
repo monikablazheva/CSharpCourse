@@ -1,0 +1,6 @@
+C:\Users\Rady\Desktop\Programming\zadacha1\bin\Debug\zadacha1.exe.config
+C:\Users\Rady\Desktop\Programming\zadacha1\bin\Debug\zadacha1.exe
+C:\Users\Rady\Desktop\Programming\zadacha1\bin\Debug\zadacha1.pdb
+C:\Users\Rady\Desktop\Programming\zadacha1\obj\Debug\zadacha1.csprojAssemblyReference.cache
+C:\Users\Rady\Desktop\Programming\zadacha1\obj\Debug\zadacha1.exe
+C:\Users\Rady\Desktop\Programming\zadacha1\obj\Debug\zadacha1.pdb

@@ -1,0 +1,47 @@
+﻿@page "/brand/index"
+@using BusinessLayer;
+@using ServiceLayer;
+
+<h3>Index</h3>
+<a href="brand/create">Create</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Brand brand in model)
+        {
+            <tr>
+                <td>
+                    @brand.Name
+                </td>
+                <td>
+                    <a href="brand/update/@brand.Id/@brand.Name/@brand.Email/@brand.Telephone">Edit</a> |
+                    <a href="brand/details/@brand.Id">Details</a> |
+                    <a href="brand/delete/@brand.Id/@brand.Name/@brand.Email/@brand.Telephone">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code 
+{
+    private DbManager<Brand, int> brandManager = new DbManager<Brand, int>(ContextGenerator.GetBrandContext());
+    private IEnumerable<Brand> model = new List<Brand>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await brandManager.ReadAllAsync();
+
+        await base.OnInitializedAsync();
+    }
+
+
+}

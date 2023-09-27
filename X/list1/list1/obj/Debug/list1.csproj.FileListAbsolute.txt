@@ -1,0 +1,7 @@
+D:\School\C#\list1\list1\bin\Debug\list1.exe.config
+D:\School\C#\list1\list1\bin\Debug\list1.exe
+D:\School\C#\list1\list1\bin\Debug\list1.pdb
+D:\School\C#\list1\list1\obj\Debug\list1.csprojAssemblyReference.cache
+D:\School\C#\list1\list1\obj\Debug\list1.csproj.CoreCompileInputs.cache
+D:\School\C#\list1\list1\obj\Debug\list1.exe
+D:\School\C#\list1\list1\obj\Debug\list1.pdb

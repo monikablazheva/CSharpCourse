@@ -1,0 +1,7 @@
+D:\School\C#\StringsSort\StringsSort\bin\Debug\StringsSort.exe.config
+D:\School\C#\StringsSort\StringsSort\bin\Debug\StringsSort.exe
+D:\School\C#\StringsSort\StringsSort\bin\Debug\StringsSort.pdb
+D:\School\C#\StringsSort\StringsSort\obj\Debug\StringsSort.csprojAssemblyReference.cache
+D:\School\C#\StringsSort\StringsSort\obj\Debug\StringsSort.csproj.CoreCompileInputs.cache
+D:\School\C#\StringsSort\StringsSort\obj\Debug\StringsSort.exe
+D:\School\C#\StringsSort\StringsSort\obj\Debug\StringsSort.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\faktoriel\faktoriel\bin\Debug\faktoriel.exe.config
+D:\School\C#\faktoriel\faktoriel\bin\Debug\faktoriel.exe
+D:\School\C#\faktoriel\faktoriel\bin\Debug\faktoriel.pdb
+D:\School\C#\faktoriel\faktoriel\obj\Debug\faktoriel.csprojAssemblyReference.cache
+D:\School\C#\faktoriel\faktoriel\obj\Debug\faktoriel.csproj.CoreCompileInputs.cache
+D:\School\C#\faktoriel\faktoriel\obj\Debug\faktoriel.exe
+D:\School\C#\faktoriel\faktoriel\obj\Debug\faktoriel.pdb

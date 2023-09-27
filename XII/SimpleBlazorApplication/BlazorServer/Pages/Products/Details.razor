@@ -1,0 +1,70 @@
+﻿@page "/product/details/{Barcode}"
+@using BusinessLayer;
+@using ServiceLayer;
+
+<h3>Details</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Barcode
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Brand
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (model != null)
+        {
+            <tr>
+                <td>
+                    @model.Barcode
+                </td>
+                <td>
+                    @model.Name
+                </td>
+                <td>
+                    @model.Quantity
+                </td>
+                <td>
+                    @model.Price
+                </td>
+                <td>
+                    @(model.Brand != null ? model.Brand.Name : string.Empty)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a href="product/index">Back to List</a>
+</div>
+
+@code
+{
+    private Product model = new();
+    private DbManager<Product, string> productManager = new(ContextGenerator.GetProductContext());
+
+    [Parameter]
+    public string Barcode { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await productManager.ReadAsync(Barcode, true);
+
+        await base.OnInitializedAsync();
+    }
+}

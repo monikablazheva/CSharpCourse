@@ -1,0 +1,210 @@
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.exe
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.deps.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.runtimeconfig.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\ref\SeedingDB.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Drawing.Common.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Security.Permissions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Windows.Extensions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Model.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Model.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.CopyComplete
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\ref\SeedingDB.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.genruntimeconfig.cache
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.exe
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.deps.json
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.runtimeconfig.json
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.runtimeconfig.dev.json
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\ref\SeedingDB.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Model.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Model.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.AssemblyReference.cache
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.AssemblyInfoInputs.cache
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.AssemblyInfo.cs
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.CoreCompileInputs.cache
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.CopyComplete
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\ref\SeedingDB.dll
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.pdb
+C:\School (2022-2023)\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.genruntimeconfig.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.exe
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.deps.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.runtimeconfig.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.runtimeconfig.dev.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\ref\SeedingDB.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\SeedingDB.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Model.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\bin\Debug\net5.0\Model.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.AssemblyReference.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.AssemblyInfoInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.AssemblyInfo.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.csproj.CopyComplete
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\ref\SeedingDB.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\SeedingDB\obj\Debug\net5.0\SeedingDB.genruntimeconfig.cache

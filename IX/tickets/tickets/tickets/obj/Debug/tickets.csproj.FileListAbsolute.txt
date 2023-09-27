@@ -1,0 +1,9 @@
+D:\Monika 8e\tickets\tickets\bin\Debug\tickets.exe.config
+D:\Monika 8e\tickets\tickets\obj\Debug\tickets.csprojResolveAssemblyReference.cache
+D:\School\C#\tickets\tickets\tickets\bin\Debug\tickets.exe.config
+D:\School\C#\tickets\tickets\tickets\bin\Debug\tickets.exe
+D:\School\C#\tickets\tickets\tickets\bin\Debug\tickets.pdb
+D:\School\C#\tickets\tickets\tickets\obj\Debug\tickets.csprojAssemblyReference.cache
+D:\School\C#\tickets\tickets\tickets\obj\Debug\tickets.csproj.CoreCompileInputs.cache
+D:\School\C#\tickets\tickets\tickets\obj\Debug\tickets.exe
+D:\School\C#\tickets\tickets\tickets\obj\Debug\tickets.pdb

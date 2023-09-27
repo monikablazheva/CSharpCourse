@@ -1,0 +1,8 @@
+D:\harmonica\StaticList\StaticList\bin\Debug\StaticList.exe.config
+D:\School\C#\StaticList\StaticList\bin\Debug\StaticList.exe.config
+D:\School\C#\StaticList\StaticList\bin\Debug\StaticList.exe
+D:\School\C#\StaticList\StaticList\bin\Debug\StaticList.pdb
+D:\School\C#\StaticList\StaticList\obj\Debug\StaticList.csprojAssemblyReference.cache
+D:\School\C#\StaticList\StaticList\obj\Debug\StaticList.csproj.CoreCompileInputs.cache
+D:\School\C#\StaticList\StaticList\obj\Debug\StaticList.exe
+D:\School\C#\StaticList\StaticList\obj\Debug\StaticList.pdb

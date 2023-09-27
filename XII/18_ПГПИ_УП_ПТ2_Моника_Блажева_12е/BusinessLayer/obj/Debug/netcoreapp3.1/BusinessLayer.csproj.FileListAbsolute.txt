@@ -1,0 +1,10 @@
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

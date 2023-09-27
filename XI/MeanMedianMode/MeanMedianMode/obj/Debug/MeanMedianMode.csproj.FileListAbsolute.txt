@@ -1,0 +1,7 @@
+D:\School\C#\MeanMedianMode\MeanMedianMode\bin\Debug\MeanMedianMode.exe.config
+D:\School\C#\MeanMedianMode\MeanMedianMode\bin\Debug\MeanMedianMode.exe
+D:\School\C#\MeanMedianMode\MeanMedianMode\bin\Debug\MeanMedianMode.pdb
+D:\School\C#\MeanMedianMode\MeanMedianMode\obj\Debug\MeanMedianMode.csproj.AssemblyReference.cache
+D:\School\C#\MeanMedianMode\MeanMedianMode\obj\Debug\MeanMedianMode.csproj.CoreCompileInputs.cache
+D:\School\C#\MeanMedianMode\MeanMedianMode\obj\Debug\MeanMedianMode.exe
+D:\School\C#\MeanMedianMode\MeanMedianMode\obj\Debug\MeanMedianMode.pdb

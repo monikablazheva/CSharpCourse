@@ -1,0 +1,7 @@
+D:\School\C#\ListsHW\ListsHW\bin\Debug\ListsHW.exe.config
+D:\School\C#\ListsHW\ListsHW\bin\Debug\ListsHW.exe
+D:\School\C#\ListsHW\ListsHW\bin\Debug\ListsHW.pdb
+D:\School\C#\ListsHW\ListsHW\obj\Debug\ListsHW.csprojAssemblyReference.cache
+D:\School\C#\ListsHW\ListsHW\obj\Debug\ListsHW.csproj.CoreCompileInputs.cache
+D:\School\C#\ListsHW\ListsHW\obj\Debug\ListsHW.exe
+D:\School\C#\ListsHW\ListsHW\obj\Debug\ListsHW.pdb

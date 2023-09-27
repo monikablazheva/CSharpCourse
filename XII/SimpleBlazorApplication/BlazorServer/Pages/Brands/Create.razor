@@ -1,0 +1,58 @@
+﻿@page "/brand/create"
+@using BusinessLayer;
+@using ServiceLayer;
+@using Microsoft.Extensions.Logging;
+@inject ErrorModel errorModel;
+@inject ILogger<Brand> logger;
+@inject NavigationManager navigationManager;
+
+<h3>Create Brand</h3>
+
+<EditForm Model="@model" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="name">Name</label>
+    <InputText id="name" @bind-Value="model.Name" autofocus />
+
+    <label for="email">Email</label>
+    <InputText id="email" @bind-Value="model.Email" />
+
+    <label for="telephone">Telephone</label>
+    <InputText id="telephone" @bind-Value="model.Telephone" />
+
+    <button type="submit">Submit</button>
+
+    <label id="error" class="text-danger">@errorModel.Description</label>
+</EditForm>
+
+@code
+{
+    private Brand model = new();
+    private DbManager<Brand, int> brandManager = new(ContextGenerator.GetBrandContext());
+
+        protected override Task OnInitializedAsync()
+        {
+            return base.OnInitializedAsync();
+        }
+
+        private async Task HandleValidSubmit()
+    {
+        try
+        {
+            await brandManager.CreateAsync(model);
+            
+            logger.Log(LogLevel.Information, "Brand created successfully!");
+            //throw new ArgumentException("Testing custom error handling!");
+
+            navigationManager.NavigateTo("brand/index", false);       
+        }
+        catch (Exception ex) // Handle concrete exceptions first!
+        {
+            errorModel.Code = "DB";
+            errorModel.Description = ex.Message;
+            logger.Log(LogLevel.Error, ex.Message);
+        }
+    }
+
+}

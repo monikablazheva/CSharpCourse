@@ -1,0 +1,77 @@
+﻿@page "/brand/details/{BrandId:int}"
+@using BusinessLayer;
+@using ServiceLayer;
+
+<h3>Details</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Brand
+            </th>
+            <th>
+                Name
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Telephone
+            </th>
+            <th>
+                Products
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @model.Id
+            </td>
+            <td>
+                @model.Name
+            </td>
+            <td>
+                @model.Email
+            </td>
+            <td>
+                @model.Telephone
+            </td>
+            @if (model.Products.Count != 0)
+            {
+                <td>
+                    <select value="@barcode">
+                        @foreach (Product product in model.Products)
+                        {
+                            <option value="@product.Barcode">@product.Name</option>
+                        }
+                    </select>
+                </td>
+            }
+        </tr>
+    </tbody>
+</table>
+
+<div>
+    <a href="brand/index">Back to List</a>
+</div>
+
+@code
+{
+    private Brand model = new();
+    private DbManager<Brand, int> brandManager = new(ContextGenerator.GetBrandContext());
+    private string barcode;
+
+    [Parameter]
+    public int BrandId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        model = await brandManager.ReadAsync(BrandId, true);
+        barcode = model.Products.Count != 0 ? model.Products[0].Barcode : string.Empty;
+        await base.OnInitializedAsync();
+    }
+
+}

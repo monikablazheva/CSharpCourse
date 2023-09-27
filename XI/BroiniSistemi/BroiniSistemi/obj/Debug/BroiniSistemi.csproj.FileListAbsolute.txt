@@ -1,0 +1,7 @@
+D:\School\C#\BroiniSistemi\BroiniSistemi\obj\Debug\BroiniSistemi.csprojAssemblyReference.cache
+D:\School\C#\BroiniSistemi\BroiniSistemi\obj\Debug\BroiniSistemi.csproj.CoreCompileInputs.cache
+D:\School\C#\BroiniSistemi\BroiniSistemi\bin\Debug\BroiniSistemi.exe.config
+D:\School\C#\BroiniSistemi\BroiniSistemi\bin\Debug\BroiniSistemi.exe
+D:\School\C#\BroiniSistemi\BroiniSistemi\bin\Debug\BroiniSistemi.pdb
+D:\School\C#\BroiniSistemi\BroiniSistemi\obj\Debug\BroiniSistemi.exe
+D:\School\C#\BroiniSistemi\BroiniSistemi\obj\Debug\BroiniSistemi.pdb

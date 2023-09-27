@@ -1,0 +1,7 @@
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csprojAssemblyReference.cache
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+D:\School\C#\TriangleOfNumbers\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

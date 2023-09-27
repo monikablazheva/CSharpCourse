@@ -1,0 +1,7 @@
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\bin\Debug\VmukvaneNaChislo.exe.config
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\bin\Debug\VmukvaneNaChislo.exe
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\bin\Debug\VmukvaneNaChislo.pdb
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\obj\Debug\VmukvaneNaChislo.csprojAssemblyReference.cache
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\obj\Debug\VmukvaneNaChislo.csproj.CoreCompileInputs.cache
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\obj\Debug\VmukvaneNaChislo.exe
+D:\School\C#\VmukvaneNaChislo\VmukvaneNaChislo\obj\Debug\VmukvaneNaChislo.pdb

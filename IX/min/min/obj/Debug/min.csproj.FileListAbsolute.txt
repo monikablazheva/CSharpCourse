@@ -1,0 +1,6 @@
+D:\School\C#\min\min\bin\Debug\min.exe.config
+D:\School\C#\min\min\bin\Debug\min.exe
+D:\School\C#\min\min\bin\Debug\min.pdb
+D:\School\C#\min\min\obj\Debug\min.csproj.CoreCompileInputs.cache
+D:\School\C#\min\min\obj\Debug\min.exe
+D:\School\C#\min\min\obj\Debug\min.pdb

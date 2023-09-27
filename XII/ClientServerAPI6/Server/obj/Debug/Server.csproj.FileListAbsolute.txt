@@ -1,0 +1,17 @@
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\Server.exe
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\Server.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\BusinessLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.exe
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\Server.exe
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\Server.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\BusinessLayer.dll
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\bin\Debug\BusinessLayer.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.exe
+C:\Iliev\School (2022 - 2023)\Задачи\Client-Server Apps\ClientServerAPI6\Server\obj\Debug\Server.pdb

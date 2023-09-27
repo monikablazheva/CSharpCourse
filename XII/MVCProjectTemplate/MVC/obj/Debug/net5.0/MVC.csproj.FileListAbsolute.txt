@@ -1,0 +1,503 @@
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\appsettings.Development.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\appsettings.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.exe
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.deps.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.runtimeconfig.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ref\MVC.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.Views.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.Views.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Model.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Model.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorAssemblyInfo.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorAssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\staticwebassets\MVC.StaticWebAssets.Manifest.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\staticwebassets\MVC.StaticWebAssets.xml
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\scopedcss\bundle\MVC.styles.css
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.TagHelpers.input.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.TagHelpers.output.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorCoreGenerate.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorTargetAssemblyInfo.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorTargetAssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.Views.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.CopyComplete
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\ref\MVC.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.genruntimeconfig.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\appsettings.json
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.exe
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.deps.json
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.runtimeconfig.json
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.runtimeconfig.dev.json
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ref\MVC.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.Views.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.Views.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Model.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Model.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.AssemblyReference.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.AssemblyInfoInputs.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.AssemblyInfo.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.CoreCompileInputs.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorAssemblyInfo.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorAssemblyInfo.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\staticwebassets\MVC.StaticWebAssets.Manifest.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\staticwebassets\MVC.StaticWebAssets.xml
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\scopedcss\bundle\MVC.styles.css
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.TagHelpers.input.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.TagHelpers.output.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorCoreGenerate.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorTargetAssemblyInfo.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorTargetAssemblyInfo.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.Views.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.CopyComplete
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\ref\MVC.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.pdb
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.genruntimeconfig.cache
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Humanizer.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Create.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Delete.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Details.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Edit.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Index.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Create.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Delete.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Details.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Edit.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Index.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.StaticWebAssets.xml
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MailKit.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\MimeKit.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Email\Index.cshtml.g.cs
+C:\School (2022-2023)\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Email\Confirm.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\appsettings.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.StaticWebAssets.xml
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.exe
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.deps.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.runtimeconfig.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.runtimeconfig.dev.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ref\MVC.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.Views.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MVC.Views.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Humanizer.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MailKit.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\MimeKit.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Formats.Asn1.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Model.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\bin\Debug\net5.0\Model.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.AssemblyReference.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.AssemblyInfoInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.AssemblyInfo.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorAssemblyInfo.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorAssemblyInfo.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\staticwebassets\MVC.StaticWebAssets.Manifest.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\staticwebassets\MVC.StaticWebAssets.xml
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\scopedcss\bundle\MVC.styles.css
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.TagHelpers.input.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.TagHelpers.output.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorCoreGenerate.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Email\Confirm.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Email\Error.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Email\Index.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Email\Send.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Create.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Delete.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Details.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Edit.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\HobbyToUser.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Hobbies\Index.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Create.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Delete.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Details.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Edit.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Messages\Index.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorTargetAssemblyInfo.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.RazorTargetAssemblyInfo.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.Views.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.csproj.CopyComplete
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\ref\MVC.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\MVC\obj\Debug\net5.0\MVC.genruntimeconfig.cache

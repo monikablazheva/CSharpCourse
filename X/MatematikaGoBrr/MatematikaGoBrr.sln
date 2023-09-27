@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatematikaGoBrr", "MatematikaGoBrr\MatematikaGoBrr.csproj", "{8185B4F1-EB5F-4498-B5E9-D9C96266E3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8185B4F1-EB5F-4498-B5E9-D9C96266E3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8185B4F1-EB5F-4498-B5E9-D9C96266E3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8185B4F1-EB5F-4498-B5E9-D9C96266E3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8185B4F1-EB5F-4498-B5E9-D9C96266E3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66207226-3651-4036-B68A-793912A24AF6}
+	EndGlobalSection
+EndGlobal

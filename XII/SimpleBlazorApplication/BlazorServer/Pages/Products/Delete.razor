@@ -1,0 +1,84 @@
+﻿@page "/product/delete/{Barcode}/{Name}/{Quantity:int}/{Price:decimal}"
+@using BusinessLayer;
+@using ServiceLayer;
+@using Microsoft.Extensions.Logging;
+@inject ErrorModel errorModel;
+@inject ILogger<Product> logger;
+@inject NavigationManager navigationManager;
+
+<h3>Delete Brand</h3>
+
+<EditForm Model="@model" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="row">
+        <label for="barcode" class="col-1">Barcode</label>
+        <InputSelect id="barcode" @bind-Value="model.Barcode">
+            <option value="@model.Barcode" class="col-2" disabled> @model.Barcode </option>
+        </InputSelect>
+
+        <label for="name" class="col-1">Name</label>
+        <InputText id="name" @bind-Value="model.Name" class="col-2" disabled />
+
+        <label for="price" class="col-1">Price</label>
+        <InputNumber id="price" @bind-Value="model.Price" class="col-2" disabled />
+
+        <label for="quantity" class="col-1">Quantity</label>
+        <InputNumber id="quantity" @bind-Value="model.Quantity" class="col-2" disabled />
+    </div>
+    <div class="row mt-1">
+        <button type="submit" class="offset-1 col-1">Delete</button>
+    </div>
+    <div class="row mt-1">
+        <label id="error" class="text-danger col-12">@errorModel.Description</label>
+    </div>
+</EditForm>
+
+<div>
+    <a href="product/index">Back to List</a>
+</div>
+
+@code
+{
+    private Product model = new();
+    private DbManager<Product, string> productManager = new(ContextGenerator.GetProductContext());
+
+    [Parameter]
+    public string Barcode { get; set; }
+
+    [Parameter]
+    public string Name { get; set; }
+
+    [Parameter]
+    public int Quantity { get; set; }
+
+    [Parameter]
+    public decimal Price { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        model = new Product(Barcode, Name, Quantity, Price);
+        return base.OnInitializedAsync();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            await productManager.DeleteAsync(model.Barcode);
+
+            logger.Log(LogLevel.Information, "Product deleted successfully!");
+            //throw new ArgumentException("Testing custom error handling!");
+
+            navigationManager.NavigateTo("product/index");
+        }
+        catch (Exception ex) // Handle concrete exceptions first!
+        {
+            errorModel.Code = "DB";
+            errorModel.Description = ex.Message;
+            logger.Log(LogLevel.Error, ex.Message);
+        }
+    }
+
+}

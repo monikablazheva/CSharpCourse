@@ -1,0 +1,45 @@
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.deps.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\ref\Model.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\ref\Model.dll
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.pdb
+\\VBOXSVR\Shared_Files\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
+C:\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.deps.json
+C:\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+C:\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+C:\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.dll
+C:\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\ref\Model.dll
+C:\School (2022-2023)\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.pdb
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.dll
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\ref\Model.dll
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.pdb
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
+C:\School (2022-2023)\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.deps.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\bin\Debug\net5.0\ref\Model.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\bin\Debug\net5.0\Model.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\ref\Model.dll
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.pdb
+C:\Iliev\School (2022 - 2023)\Задачи\ИП - УП\MVCProjectTemplate\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+D:\School\C#\50random\50random\bin\Debug\50random.exe.config
+D:\School\C#\50random\50random\bin\Debug\50random.exe
+D:\School\C#\50random\50random\bin\Debug\50random.pdb
+D:\School\C#\50random\50random\obj\Debug\50random.csprojAssemblyReference.cache
+D:\School\C#\50random\50random\obj\Debug\50random.csproj.CoreCompileInputs.cache
+D:\School\C#\50random\50random\obj\Debug\50random.exe
+D:\School\C#\50random\50random\obj\Debug\50random.pdb

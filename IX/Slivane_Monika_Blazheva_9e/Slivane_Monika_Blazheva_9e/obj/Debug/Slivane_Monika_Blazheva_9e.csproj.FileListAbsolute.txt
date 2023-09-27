@@ -1,0 +1,7 @@
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\bin\Debug\Slivane_Monika_Blazheva_9e.exe.config
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\bin\Debug\Slivane_Monika_Blazheva_9e.exe
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\bin\Debug\Slivane_Monika_Blazheva_9e.pdb
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\obj\Debug\Slivane_Monika_Blazheva_9e.csprojAssemblyReference.cache
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\obj\Debug\Slivane_Monika_Blazheva_9e.csproj.CoreCompileInputs.cache
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\obj\Debug\Slivane_Monika_Blazheva_9e.exe
+D:\School\C#\Slivane_Monika_Blazheva_9e\Slivane_Monika_Blazheva_9e\obj\Debug\Slivane_Monika_Blazheva_9e.pdb

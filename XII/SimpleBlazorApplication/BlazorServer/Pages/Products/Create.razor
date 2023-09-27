@@ -1,0 +1,57 @@
+﻿@page "/movie/create"
+@using BussinessLayer;
+@using ServiceLayer;
+@using Microsoft.Extensions.Logging;
+@inject ILogger<Movie> logger;
+@inject NavigationManager navigationManager;
+
+<h3>Create Movie</h3>
+
+<EditForm Model="@model" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="title">Title</label>
+    <InputText id="title" @bind-Value="model.Title" autofocus />
+
+    <label for="budget">Budget</label>
+    <InputNumber id="budget" @bind-Value="model.Budget" autofocus />
+
+    <label for="actors">Actors</label>
+    <InputText id="actors" @bind-Value="model.Actors" autofocus />
+
+    <label for="genres">Genres</label>
+    <InputText id="genres" @bind-Value="model.Genres" autofocus />
+    
+
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code
+{
+    private Movie model = new();
+    private DbManager<Movie, int> movieManager = new(ContextGenerator.GetmovieContext());
+
+        protected override Task OnInitializedAsync()
+        {
+            return base.OnInitializedAsync();
+        }
+
+        private async Task HandleValidSubmit()
+    {
+        try
+        {
+            await movieManager.CreateAsync(model);
+            
+            logger.Log(LogLevel.Information, "Movie created successfully!");
+            //throw new ArgumentException("Testing custom error handling!");
+
+            navigationManager.NavigateTo("movie/index", false);       
+        }
+        catch (Exception ex) // Handle concrete exceptions first!
+        {
+            logger.Log(LogLevel.Error, ex.Message);
+        }
+    }
+
+}

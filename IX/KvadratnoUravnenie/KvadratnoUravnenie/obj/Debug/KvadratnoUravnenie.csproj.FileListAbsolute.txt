@@ -1,0 +1,7 @@
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\bin\Debug\KvadratnoUravnenie.exe.config
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\bin\Debug\KvadratnoUravnenie.exe
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\bin\Debug\KvadratnoUravnenie.pdb
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.csprojAssemblyReference.cache
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.csproj.CoreCompileInputs.cache
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.exe
+D:\School\C#\KvadratnoUravnenie\KvadratnoUravnenie\obj\Debug\KvadratnoUravnenie.pdb

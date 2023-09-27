@@ -1,0 +1,17 @@
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\ref\ServiceLayer.dll
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
+C:\Iliev\SimpleBlazorApplication\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb

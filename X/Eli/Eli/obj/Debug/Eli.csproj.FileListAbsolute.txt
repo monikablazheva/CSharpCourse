@@ -1,0 +1,7 @@
+D:\School\C#\Eli\Eli\bin\Debug\Eli.exe.config
+D:\School\C#\Eli\Eli\bin\Debug\Eli.exe
+D:\School\C#\Eli\Eli\bin\Debug\Eli.pdb
+D:\School\C#\Eli\Eli\obj\Debug\Eli.csprojAssemblyReference.cache
+D:\School\C#\Eli\Eli\obj\Debug\Eli.csproj.CoreCompileInputs.cache
+D:\School\C#\Eli\Eli\obj\Debug\Eli.exe
+D:\School\C#\Eli\Eli\obj\Debug\Eli.pdb

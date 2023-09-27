@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "18_ПГПИ_УП_ПТ1_Моника_Блажева_12e/1.0.0": {
+        "runtime": {
+          "18_ПГПИ_УП_ПТ1_Моника_Блажева_12e.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "18_ПГПИ_УП_ПТ1_Моника_Блажева_12e/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

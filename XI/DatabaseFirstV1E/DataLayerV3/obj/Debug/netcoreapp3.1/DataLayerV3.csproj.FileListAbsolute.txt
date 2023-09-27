@@ -1,0 +1,16 @@
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\DataLayerV3.deps.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\DataLayerV3.runtimeconfig.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\DataLayerV3.runtimeconfig.dev.json
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\DataLayerV3.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\DataLayerV3.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.csproj.AssemblyReference.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.AssemblyInfoInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.AssemblyInfo.cs
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.csproj.CopyComplete
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.dll
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.pdb
+C:\Iliev\School (2021 - 2022)\Задачи\Software Develpment\DatabaseFirstV1E\DataLayerV3\obj\Debug\netcoreapp3.1\DataLayerV3.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+﻿@model List<ErrorViewModel> 
+
+@{
+    @foreach (var item in Model)
+    {
+        <p>@item.Code => @item.Description</p>
+    }
+}

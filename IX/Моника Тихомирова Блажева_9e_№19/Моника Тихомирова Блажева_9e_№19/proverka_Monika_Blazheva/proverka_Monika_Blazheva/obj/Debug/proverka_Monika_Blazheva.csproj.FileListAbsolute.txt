@@ -1,0 +1,13 @@
+D:\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\bin\Debug\proverka_Monika_Blazheva.exe.config
+D:\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\bin\Debug\proverka_Monika_Blazheva.exe
+D:\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\bin\Debug\proverka_Monika_Blazheva.pdb
+D:\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.csprojResolveAssemblyReference.cache
+D:\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.exe
+D:\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.pdb
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\bin\Debug\proverka_Monika_Blazheva.exe.config
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\bin\Debug\proverka_Monika_Blazheva.exe
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\bin\Debug\proverka_Monika_Blazheva.pdb
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.csprojAssemblyReference.cache
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.csproj.CoreCompileInputs.cache
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.exe
+D:\School\C#\Моника Тихомирова Блажева_9e_№19\Моника Тихомирова Блажева_9e_№19\proverka_Monika_Blazheva\proverka_Monika_Blazheva\obj\Debug\proverka_Monika_Blazheva.pdb

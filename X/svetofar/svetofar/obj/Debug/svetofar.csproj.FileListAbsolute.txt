@@ -1,0 +1,7 @@
+D:\School\C#\svetofar\svetofar\bin\Debug\svetofar.exe.config
+D:\School\C#\svetofar\svetofar\bin\Debug\svetofar.exe
+D:\School\C#\svetofar\svetofar\bin\Debug\svetofar.pdb
+D:\School\C#\svetofar\svetofar\obj\Debug\svetofar.csprojAssemblyReference.cache
+D:\School\C#\svetofar\svetofar\obj\Debug\svetofar.csproj.CoreCompileInputs.cache
+D:\School\C#\svetofar\svetofar\obj\Debug\svetofar.exe
+D:\School\C#\svetofar\svetofar\obj\Debug\svetofar.pdb

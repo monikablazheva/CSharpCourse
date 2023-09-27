@@ -1,0 +1,7 @@
+D:\School\C#\ReversedList\ReversedList\bin\Debug\ReversedList.exe.config
+D:\School\C#\ReversedList\ReversedList\bin\Debug\ReversedList.exe
+D:\School\C#\ReversedList\ReversedList\bin\Debug\ReversedList.pdb
+D:\School\C#\ReversedList\ReversedList\obj\Debug\ReversedList.csprojAssemblyReference.cache
+D:\School\C#\ReversedList\ReversedList\obj\Debug\ReversedList.csproj.CoreCompileInputs.cache
+D:\School\C#\ReversedList\ReversedList\obj\Debug\ReversedList.exe
+D:\School\C#\ReversedList\ReversedList\obj\Debug\ReversedList.pdb

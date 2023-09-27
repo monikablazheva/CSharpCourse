@@ -1,0 +1,25 @@
+C:\Users\Teacher\Desktop\c#\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe.config
+C:\Users\Teacher\Desktop\c#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\c#\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe
+C:\Users\Teacher\Desktop\c#\syzdavane_na_klas\zad_1\bin\Debug\zad_1.pdb
+C:\Users\Teacher\Desktop\c#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.exe
+C:\Users\Teacher\Desktop\c#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.pdb
+C:\Users\RVALCHEV\Desktop\3 седмица\3 седмица\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe.config
+C:\Users\RVALCHEV\Desktop\3 седмица\3 седмица\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe
+C:\Users\RVALCHEV\Desktop\3 седмица\3 седмица\syzdavane_na_klas\zad_1\bin\Debug\zad_1.pdb
+C:\Users\RVALCHEV\Desktop\3 седмица\3 седмица\syzdavane_na_klas\zad_1\obj\Debug\zad_1.csprojAssemblyReference.cache
+C:\Users\RVALCHEV\Desktop\3 седмица\3 седмица\syzdavane_na_klas\zad_1\obj\Debug\zad_1.exe
+C:\Users\RVALCHEV\Desktop\3 седмица\3 седмица\syzdavane_na_klas\zad_1\obj\Debug\zad_1.pdb
+C:\МГ\Модули\УООП\УООП - ИУЧ - ОтПП - Т\03 Класове и обекти\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe.config
+C:\МГ\Модули\УООП\УООП - ИУЧ - ОтПП - Т\03 Класове и обекти\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe
+C:\МГ\Модули\УООП\УООП - ИУЧ - ОтПП - Т\03 Класове и обекти\syzdavane_na_klas\zad_1\bin\Debug\zad_1.pdb
+C:\МГ\Модули\УООП\УООП - ИУЧ - ОтПП - Т\03 Класове и обекти\syzdavane_na_klas\zad_1\obj\Debug\zad_1.csprojAssemblyReference.cache
+C:\МГ\Модули\УООП\УООП - ИУЧ - ОтПП - Т\03 Класове и обекти\syzdavane_na_klas\zad_1\obj\Debug\zad_1.exe
+C:\МГ\Модули\УООП\УООП - ИУЧ - ОтПП - Т\03 Класове и обекти\syzdavane_na_klas\zad_1\obj\Debug\zad_1.pdb
+D:\School\C#\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe.config
+D:\School\C#\syzdavane_na_klas\zad_1\bin\Debug\zad_1.exe
+D:\School\C#\syzdavane_na_klas\zad_1\bin\Debug\zad_1.pdb
+D:\School\C#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.csprojAssemblyReference.cache
+D:\School\C#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.csproj.CoreCompileInputs.cache
+D:\School\C#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.exe
+D:\School\C#\syzdavane_na_klas\zad_1\obj\Debug\zad_1.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\vnas\vnas\bin\Debug\vnas.exe.config
+D:\School\C#\vnas\vnas\bin\Debug\vnas.exe
+D:\School\C#\vnas\vnas\bin\Debug\vnas.pdb
+D:\School\C#\vnas\vnas\obj\Debug\vnas.csprojAssemblyReference.cache
+D:\School\C#\vnas\vnas\obj\Debug\vnas.csproj.CoreCompileInputs.cache
+D:\School\C#\vnas\vnas\obj\Debug\vnas.exe
+D:\School\C#\vnas\vnas\obj\Debug\vnas.pdb

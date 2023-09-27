@@ -1,0 +1,71 @@
+﻿@page "/brand/delete/{BrandId:int}/{Name}/{Email}/{Telephone}"
+@using BusinessLayer;
+@using ServiceLayer;
+@using Microsoft.Extensions.Logging;
+@inject ErrorModel errorModel;
+@inject ILogger<Brand> logger;
+@inject NavigationManager navigationManager;
+
+<h3>Delete Brand</h3>
+
+<EditForm Model="@model" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label for="name">Name</label>
+    <InputText id="name" @bind-Value="model.Name" disabled />
+
+    <label for="email">Email</label>
+    <InputText id="email" @bind-Value="model.Email" disabled />
+
+    <label for="telephone">Telephone</label>
+    <InputText id="telephone" @bind-Value="model.Telephone" disabled />
+
+    <button type="submit">Delete</button>
+
+    <label id="error" class="text-danger">@errorModel.Description</label>
+</EditForm>
+
+@code
+{
+    private Brand model = new();
+    private DbManager<Brand, int> brandManager = new(ContextGenerator.GetBrandContext());
+
+    [Parameter]
+    public int BrandId { get; set; }
+
+    [Parameter]
+    public string Name { get; set; }
+
+    [Parameter]
+    public string Email { get; set; }
+
+    [Parameter]
+    public string Telephone { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        model = new Brand(BrandId, Name, Email, Telephone);
+        return base.OnInitializedAsync();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            await brandManager.DeleteAsync(model.Id);
+
+            logger.Log(LogLevel.Information, "Brand deleted successfully!");
+            //throw new ArgumentException("Testing custom error handling!");
+
+            navigationManager.NavigateTo("brand/index");
+        }
+        catch (Exception ex) // Handle concrete exceptions first!
+        {
+            errorModel.Code = "DB";
+            errorModel.Description = ex.Message;
+            logger.Log(LogLevel.Error, ex.Message);
+        }
+    }
+
+}

@@ -1,0 +1,7 @@
+D:\School\C#\cifriNaChislo\cifriNaChislo\bin\Debug\cifriNaChislo.exe.config
+D:\School\C#\cifriNaChislo\cifriNaChislo\bin\Debug\cifriNaChislo.exe
+D:\School\C#\cifriNaChislo\cifriNaChislo\bin\Debug\cifriNaChislo.pdb
+D:\School\C#\cifriNaChislo\cifriNaChislo\obj\Debug\cifriNaChislo.csprojAssemblyReference.cache
+D:\School\C#\cifriNaChislo\cifriNaChislo\obj\Debug\cifriNaChislo.csproj.CoreCompileInputs.cache
+D:\School\C#\cifriNaChislo\cifriNaChislo\obj\Debug\cifriNaChislo.exe
+D:\School\C#\cifriNaChislo\cifriNaChislo\obj\Debug\cifriNaChislo.pdb

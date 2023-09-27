@@ -1,0 +1,109 @@
+﻿@page "/product/update/{Barcode}/{Name}/{Quantity:int}/{Price:decimal}/{BrandId:int}"
+@using BusinessLayer;
+@using ServiceLayer;
+@using Microsoft.Extensions.Logging;
+@inject ErrorModel errorModel;
+@inject ILogger<Product> logger;
+@inject NavigationManager navigationManager;
+
+<h3>Update</h3>
+
+<!-- Asynchronously constructing the context/model => we have to check for null! -->
+@if (editContext == null)
+{
+    <p><em>Loading ...</em></p>
+}
+else
+{
+    <EditForm EditContext="@editContext" OnValidSubmit="@HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="row">
+            <label for="barcode" class="col-1">Barcode</label>
+            <InputSelect id="barcode" @bind-Value="model.Barcode" class="col-2">
+                <option value="@model.Barcode" disabled> @model.Barcode </option>
+            </InputSelect>
+
+            <label for="name" class="col-1">Name</label>
+            <InputText id="name" @bind-Value="model.Name" class="col-2" autofocus />
+
+            <label for="price" class="col-1">Price</label>
+            <InputNumber id="price" @bind-Value="model.Price" class="col-2" />
+
+            <label for="quantity" class="col-1">Quantity</label>
+            <InputNumber id="quantity" @bind-Value="model.Quantity" class="col-2" />
+        </div>
+        <div class="row mt-1">
+            <label for="brand" class="col-1">Brand</label>
+            <InputSelect id="brand" @bind-Value="model.BrandId" class="col-2">
+                @foreach (Brand brand in brands)
+                    {
+                    <option value="@brand.Id">@brand.Name</option>
+                    }
+            </InputSelect>
+
+            <button type="submit" class="col-1">Submit</button>
+        </div>
+        <div class="row mt-1">
+            <label id="error" class="text-danger col-12">@errorModel.Description</label>
+        </div>
+        
+    </EditForm>
+}
+<div>
+    <a href="product/index">Back to List</a>
+</div>
+
+@code 
+{
+    private Product model;
+    private EditContext editContext;
+    private DbManager<Brand, int> brandManager = new(ContextGenerator.GetBrandContext());
+    private DbManager<Product, string> productManager = new(ContextGenerator.GetProductContext());
+    private List<Brand> brands;
+
+    [Parameter]
+    public string Barcode { get; set; }
+
+    [Parameter]
+    public string Name { get; set; }
+
+    [Parameter]
+    public int Quantity { get; set; }
+
+    [Parameter]
+    public decimal Price { get; set; }
+
+    [Parameter]
+    public int BrandId { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        brands = await brandManager.ReadAllAsync();
+        Brand brand = await brandManager.ReadAsync(BrandId);
+        model = new Product(Barcode, Name, Quantity, Price, brand);
+        editContext = new EditContext(model);
+
+        await base.OnInitializedAsync();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            model.Brand = brands.FirstOrDefault(b => b.Id == model.BrandId);
+            await productManager.UpdateAsync(model);
+
+            logger.Log(LogLevel.Information, "Product updated successfully!");
+            navigationManager.NavigateTo("product/index", false);
+        }
+        catch (Exception ex)
+        {
+            errorModel.Code = "DB";
+            errorModel.Description = ex.Message;
+            logger.Log(LogLevel.Error, ex.Message);
+        }
+    }
+
+}

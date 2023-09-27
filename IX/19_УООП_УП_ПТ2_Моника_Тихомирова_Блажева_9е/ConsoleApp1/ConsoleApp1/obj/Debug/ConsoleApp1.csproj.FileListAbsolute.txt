@@ -1,0 +1,14 @@
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\School\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\School\C#\19_УООП_УП_ПТ2_Моника_Тихомирова_Блажева_9е\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

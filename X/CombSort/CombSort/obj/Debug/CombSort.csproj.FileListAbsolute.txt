@@ -1,0 +1,7 @@
+D:\School\C#\CombSort\CombSort\bin\Debug\CombSort.exe.config
+D:\School\C#\CombSort\CombSort\bin\Debug\CombSort.exe
+D:\School\C#\CombSort\CombSort\bin\Debug\CombSort.pdb
+D:\School\C#\CombSort\CombSort\obj\Debug\CombSort.csprojAssemblyReference.cache
+D:\School\C#\CombSort\CombSort\obj\Debug\CombSort.csproj.CoreCompileInputs.cache
+D:\School\C#\CombSort\CombSort\obj\Debug\CombSort.exe
+D:\School\C#\CombSort\CombSort\obj\Debug\CombSort.pdb

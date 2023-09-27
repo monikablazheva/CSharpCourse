@@ -1,0 +1,79 @@
+﻿@page "/brand/update/{BrandId:int}/{Name}/{Email}/{Telephone}"
+@using BusinessLayer;
+@using ServiceLayer;
+@using Microsoft.Extensions.Logging;
+@inject ErrorModel errorModel;
+@inject ILogger<Brand> logger;
+@inject NavigationManager navigationManager;
+
+<h3>Update</h3>
+
+<EditForm EditContext="@editContext" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputSelect id="id" @bind-Value="model.Id">
+        <option value="@model.Id" disabled> @model.Id </option>
+    </InputSelect>
+
+    <label for="name">Name</label>
+    <InputText id="name" @bind-Value="model.Name" />
+
+    <label for="email">Email</label>
+    <InputText id="email" @bind-Value="model.Email" />
+
+    <label for="telephone">Telephone</label>
+    <InputText id="telephone" @bind-Value="model.Telephone" />
+
+    <button type="submit">Submit</button>
+
+    <label id="error" class="text-danger">@errorModel.Description</label>
+</EditForm>
+
+<div>
+    <a href="brand/index">Back to List</a>
+</div>
+
+@code 
+{
+    private Brand model;
+    private DbManager<Brand, int> brandManager = new(ContextGenerator.GetBrandContext());
+    private EditContext editContext;
+
+    [Parameter]
+    public int BrandId { get; set; }
+
+    [Parameter]
+    public string Name { get; set; }
+
+    [Parameter]
+    public string Email { get; set; }
+
+    [Parameter]
+    public string Telephone { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        model = new Brand(BrandId, Name, Email, Telephone);
+        editContext = new EditContext(model);
+
+        return base.OnInitializedAsync();
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        try
+        {
+            await brandManager.UpdateAsync(model);
+            logger.Log(LogLevel.Information, "Brand updated successfully!");
+            navigationManager.NavigateTo("brand/index", false);
+        }
+        catch (Exception ex)
+        {
+            errorModel.Code = "DB";
+            errorModel.Description = ex.Message;
+            logger.Log(LogLevel.Error, ex.Message);
+        }
+    }
+
+}

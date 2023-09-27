@@ -1,0 +1,7 @@
+D:\School\C#\linuravnenie\linuravnenie\bin\Debug\linuravnenie.exe.config
+D:\School\C#\linuravnenie\linuravnenie\bin\Debug\linuravnenie.exe
+D:\School\C#\linuravnenie\linuravnenie\bin\Debug\linuravnenie.pdb
+D:\School\C#\linuravnenie\linuravnenie\obj\Debug\linuravnenie.csprojAssemblyReference.cache
+D:\School\C#\linuravnenie\linuravnenie\obj\Debug\linuravnenie.csproj.CoreCompileInputs.cache
+D:\School\C#\linuravnenie\linuravnenie\obj\Debug\linuravnenie.exe
+D:\School\C#\linuravnenie\linuravnenie\obj\Debug\linuravnenie.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\StanchosNumber\StanchosNumber\bin\Debug\StanchosNumber.exe.config
+D:\School\C#\StanchosNumber\StanchosNumber\bin\Debug\StanchosNumber.exe
+D:\School\C#\StanchosNumber\StanchosNumber\bin\Debug\StanchosNumber.pdb
+D:\School\C#\StanchosNumber\StanchosNumber\obj\Debug\StanchosNumber.csprojAssemblyReference.cache
+D:\School\C#\StanchosNumber\StanchosNumber\obj\Debug\StanchosNumber.csproj.CoreCompileInputs.cache
+D:\School\C#\StanchosNumber\StanchosNumber\obj\Debug\StanchosNumber.exe
+D:\School\C#\StanchosNumber\StanchosNumber\obj\Debug\StanchosNumber.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\ReverseMethod\ReverseMethod\bin\Debug\ReverseMethod.exe.config
+D:\School\C#\ReverseMethod\ReverseMethod\bin\Debug\ReverseMethod.exe
+D:\School\C#\ReverseMethod\ReverseMethod\bin\Debug\ReverseMethod.pdb
+D:\School\C#\ReverseMethod\ReverseMethod\obj\Debug\ReverseMethod.csprojAssemblyReference.cache
+D:\School\C#\ReverseMethod\ReverseMethod\obj\Debug\ReverseMethod.csproj.CoreCompileInputs.cache
+D:\School\C#\ReverseMethod\ReverseMethod\obj\Debug\ReverseMethod.exe
+D:\School\C#\ReverseMethod\ReverseMethod\obj\Debug\ReverseMethod.pdb

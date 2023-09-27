@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYJKDJgUezryBhROA4XUft9ulyEM3+3uSVnAtyAaegOqOa/4X++UcmQgrtu4cJgtTQMQ7yHk0jQWfUJFdvdn+A==",
+  "success": true,
+  "projectFilePath": "D:\\School\\C#\\18_ПГПИ_УП_ПТ1_Моника_Блажева_12e\\18_ПГПИ_УП_ПТ1_Моника_Блажева_12e\\18_ПГПИ_УП_ПТ1_Моника_Блажева_12e.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moni\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

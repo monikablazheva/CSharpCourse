@@ -1,0 +1,12 @@
+c:\users\denny\documents\visual studio 2015\Projects\Interpolation Search 10e\Interpolation Search 10e\bin\Debug\Interpolation Search 10e.exe.config
+c:\users\denny\documents\visual studio 2015\Projects\Interpolation Search 10e\Interpolation Search 10e\bin\Debug\Interpolation Search 10e.exe
+c:\users\denny\documents\visual studio 2015\Projects\Interpolation Search 10e\Interpolation Search 10e\bin\Debug\Interpolation Search 10e.pdb
+c:\users\denny\documents\visual studio 2015\Projects\Interpolation Search 10e\Interpolation Search 10e\obj\Debug\Interpolation Search 10e.csprojResolveAssemblyReference.cache
+c:\users\denny\documents\visual studio 2015\Projects\Interpolation Search 10e\Interpolation Search 10e\obj\Debug\Interpolation Search 10e.exe
+c:\users\denny\documents\visual studio 2015\Projects\Interpolation Search 10e\Interpolation Search 10e\obj\Debug\Interpolation Search 10e.pdb
+C:\Users\Rady\Desktop\Izpiti\Interpolation Search 10e\Interpolation Search 10e\bin\Debug\Interpolation Search 10e.exe.config
+C:\Users\Rady\Desktop\Izpiti\Interpolation Search 10e\Interpolation Search 10e\bin\Debug\Interpolation Search 10e.exe
+C:\Users\Rady\Desktop\Izpiti\Interpolation Search 10e\Interpolation Search 10e\bin\Debug\Interpolation Search 10e.pdb
+C:\Users\Rady\Desktop\Izpiti\Interpolation Search 10e\Interpolation Search 10e\obj\Debug\Interpolation Search 10e.csprojAssemblyReference.cache
+C:\Users\Rady\Desktop\Izpiti\Interpolation Search 10e\Interpolation Search 10e\obj\Debug\Interpolation Search 10e.exe
+C:\Users\Rady\Desktop\Izpiti\Interpolation Search 10e\Interpolation Search 10e\obj\Debug\Interpolation Search 10e.pdb

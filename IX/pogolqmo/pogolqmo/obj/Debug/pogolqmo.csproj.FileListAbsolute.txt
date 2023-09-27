@@ -1,0 +1,5 @@
+D:\Monika 8e\pogolqmo\pogolqmo\bin\Debug\pogolqmo.exe.config
+D:\Monika 8e\pogolqmo\pogolqmo\bin\Debug\pogolqmo.exe
+D:\Monika 8e\pogolqmo\pogolqmo\bin\Debug\pogolqmo.pdb
+D:\Monika 8e\pogolqmo\pogolqmo\obj\Debug\pogolqmo.exe
+D:\Monika 8e\pogolqmo\pogolqmo\obj\Debug\pogolqmo.pdb

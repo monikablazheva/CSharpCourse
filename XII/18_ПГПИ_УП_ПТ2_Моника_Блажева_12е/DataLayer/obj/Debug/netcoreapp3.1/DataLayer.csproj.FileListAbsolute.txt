@@ -1,0 +1,16 @@
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+D:\School\C#\18_ПГПИ_УП_ПТ2_Моника_Блажева_12е\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache

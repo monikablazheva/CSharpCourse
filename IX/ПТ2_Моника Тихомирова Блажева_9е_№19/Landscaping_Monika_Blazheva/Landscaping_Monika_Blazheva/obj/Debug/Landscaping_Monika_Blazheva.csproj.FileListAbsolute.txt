@@ -1,0 +1,13 @@
+D:\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\bin\Debug\Landscaping_Monika_Blazheva.exe.config
+D:\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\bin\Debug\Landscaping_Monika_Blazheva.exe
+D:\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\bin\Debug\Landscaping_Monika_Blazheva.pdb
+D:\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.csprojResolveAssemblyReference.cache
+D:\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.exe
+D:\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.pdb
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\bin\Debug\Landscaping_Monika_Blazheva.exe.config
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\bin\Debug\Landscaping_Monika_Blazheva.exe
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\bin\Debug\Landscaping_Monika_Blazheva.pdb
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.csprojAssemblyReference.cache
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.csproj.CoreCompileInputs.cache
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.exe
+D:\School\C#\ПТ2_Моника Тихомирова Блажева_9е_№19\Landscaping_Monika_Blazheva\Landscaping_Monika_Blazheva\obj\Debug\Landscaping_Monika_Blazheva.pdb

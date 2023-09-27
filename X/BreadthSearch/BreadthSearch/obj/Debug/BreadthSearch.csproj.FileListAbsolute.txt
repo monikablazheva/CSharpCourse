@@ -1,0 +1,7 @@
+D:\School\C#\BreadthSearch\BreadthSearch\obj\Debug\BreadthSearch.csprojAssemblyReference.cache
+D:\School\C#\BreadthSearch\BreadthSearch\obj\Debug\BreadthSearch.csproj.CoreCompileInputs.cache
+D:\School\C#\BreadthSearch\BreadthSearch\bin\Debug\BreadthSearch.exe.config
+D:\School\C#\BreadthSearch\BreadthSearch\bin\Debug\BreadthSearch.exe
+D:\School\C#\BreadthSearch\BreadthSearch\bin\Debug\BreadthSearch.pdb
+D:\School\C#\BreadthSearch\BreadthSearch\obj\Debug\BreadthSearch.exe
+D:\School\C#\BreadthSearch\BreadthSearch\obj\Debug\BreadthSearch.pdb

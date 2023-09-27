@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nizove_TriteImena_9e", "Nizove_TriteImena_9e\Nizove_TriteImena_9e.csproj", "{5B34F4CC-B5E8-4E3C-89A1-8F554BAEB996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B34F4CC-B5E8-4E3C-89A1-8F554BAEB996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B34F4CC-B5E8-4E3C-89A1-8F554BAEB996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B34F4CC-B5E8-4E3C-89A1-8F554BAEB996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B34F4CC-B5E8-4E3C-89A1-8F554BAEB996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {705E1F0D-D0B3-4E9F-9442-E64B3D8F1A7B}
+	EndGlobalSection
+EndGlobal

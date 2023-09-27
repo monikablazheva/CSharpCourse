@@ -1,0 +1,7 @@
+D:\School\C#\Problem3\Problem3\bin\Debug\Problem3.exe.config
+D:\School\C#\Problem3\Problem3\bin\Debug\Problem3.exe
+D:\School\C#\Problem3\Problem3\bin\Debug\Problem3.pdb
+D:\School\C#\Problem3\Problem3\obj\Debug\Problem3.csprojAssemblyReference.cache
+D:\School\C#\Problem3\Problem3\obj\Debug\Problem3.csproj.CoreCompileInputs.cache
+D:\School\C#\Problem3\Problem3\obj\Debug\Problem3.exe
+D:\School\C#\Problem3\Problem3\obj\Debug\Problem3.pdb

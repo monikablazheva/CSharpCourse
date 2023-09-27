@@ -1,0 +1,7 @@
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\bin\Debug\MatrixsColumnSort.exe.config
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\bin\Debug\MatrixsColumnSort.exe
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\bin\Debug\MatrixsColumnSort.pdb
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\obj\Debug\MatrixsColumnSort.csprojAssemblyReference.cache
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\obj\Debug\MatrixsColumnSort.csproj.CoreCompileInputs.cache
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\obj\Debug\MatrixsColumnSort.exe
+D:\School\C#\MatrixsColumnSort\MatrixsColumnSort\obj\Debug\MatrixsColumnSort.pdb

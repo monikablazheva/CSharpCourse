@@ -1,0 +1,2 @@
+D:\School\C#\LowestAndHigherNumber\LowestAndHigherNumber\obj\Debug\LowestAndHigherNumber.csprojAssemblyReference.cache
+D:\School\C#\LowestAndHigherNumber\LowestAndHigherNumber\obj\Debug\LowestAndHigherNumber.csproj.CoreCompileInputs.cache

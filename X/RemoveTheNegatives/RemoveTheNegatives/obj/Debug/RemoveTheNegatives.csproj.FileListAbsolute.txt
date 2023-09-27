@@ -1,0 +1,7 @@
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\bin\Debug\RemoveTheNegatives.exe.config
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\bin\Debug\RemoveTheNegatives.exe
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\bin\Debug\RemoveTheNegatives.pdb
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\obj\Debug\RemoveTheNegatives.csprojAssemblyReference.cache
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\obj\Debug\RemoveTheNegatives.csproj.CoreCompileInputs.cache
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\obj\Debug\RemoveTheNegatives.exe
+D:\School\C#\RemoveTheNegatives\RemoveTheNegatives\obj\Debug\RemoveTheNegatives.pdb

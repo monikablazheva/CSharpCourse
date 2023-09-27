@@ -1,0 +1,6 @@
+D:\Monika 9e\Money\Money\bin\Debug\Money.exe.config
+D:\Monika 9e\Money\Money\bin\Debug\Money.exe
+D:\Monika 9e\Money\Money\bin\Debug\Money.pdb
+D:\Monika 9e\Money\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+D:\Monika 9e\Money\Money\obj\Debug\Money.exe
+D:\Monika 9e\Money\Money\obj\Debug\Money.pdb

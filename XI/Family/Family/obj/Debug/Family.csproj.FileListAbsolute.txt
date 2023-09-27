@@ -1,0 +1,7 @@
+D:\School\C#\Family\Family\bin\Debug\Family.exe.config
+D:\School\C#\Family\Family\bin\Debug\Family.exe
+D:\School\C#\Family\Family\bin\Debug\Family.pdb
+D:\School\C#\Family\Family\obj\Debug\Family.csprojAssemblyReference.cache
+D:\School\C#\Family\Family\obj\Debug\Family.csproj.CoreCompileInputs.cache
+D:\School\C#\Family\Family\obj\Debug\Family.exe
+D:\School\C#\Family\Family\obj\Debug\Family.pdb

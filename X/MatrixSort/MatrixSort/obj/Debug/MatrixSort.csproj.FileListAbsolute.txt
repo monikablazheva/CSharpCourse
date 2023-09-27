@@ -1,0 +1,7 @@
+D:\School\C#\MatrixSort\MatrixSort\bin\Debug\MatrixSort.exe.config
+D:\School\C#\MatrixSort\MatrixSort\bin\Debug\MatrixSort.exe
+D:\School\C#\MatrixSort\MatrixSort\bin\Debug\MatrixSort.pdb
+D:\School\C#\MatrixSort\MatrixSort\obj\Debug\MatrixSort.csprojAssemblyReference.cache
+D:\School\C#\MatrixSort\MatrixSort\obj\Debug\MatrixSort.csproj.CoreCompileInputs.cache
+D:\School\C#\MatrixSort\MatrixSort\obj\Debug\MatrixSort.exe
+D:\School\C#\MatrixSort\MatrixSort\obj\Debug\MatrixSort.pdb

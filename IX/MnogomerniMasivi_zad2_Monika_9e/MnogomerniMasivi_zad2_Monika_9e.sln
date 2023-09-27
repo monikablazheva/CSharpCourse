@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MnogomerniMasivi_zad2_Monika_9e", "MnogomerniMasivi_zad2_Monika_9e\MnogomerniMasivi_zad2_Monika_9e.csproj", "{31D1C9D1-DE81-483A-90A8-E68F3F624F0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D1C9D1-DE81-483A-90A8-E68F3F624F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D1C9D1-DE81-483A-90A8-E68F3F624F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D1C9D1-DE81-483A-90A8-E68F3F624F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D1C9D1-DE81-483A-90A8-E68F3F624F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D902095-438F-456F-B1DD-3F1E344B403E}
+	EndGlobalSection
+EndGlobal

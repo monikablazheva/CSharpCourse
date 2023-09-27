@@ -1,0 +1,7 @@
+D:\School\C#\SubjectTextbook\SubjectTextbook\bin\Debug\SubjectTextbook.exe.config
+D:\School\C#\SubjectTextbook\SubjectTextbook\bin\Debug\SubjectTextbook.exe
+D:\School\C#\SubjectTextbook\SubjectTextbook\bin\Debug\SubjectTextbook.pdb
+D:\School\C#\SubjectTextbook\SubjectTextbook\obj\Debug\SubjectTextbook.csprojAssemblyReference.cache
+D:\School\C#\SubjectTextbook\SubjectTextbook\obj\Debug\SubjectTextbook.csproj.CoreCompileInputs.cache
+D:\School\C#\SubjectTextbook\SubjectTextbook\obj\Debug\SubjectTextbook.exe
+D:\School\C#\SubjectTextbook\SubjectTextbook\obj\Debug\SubjectTextbook.pdb

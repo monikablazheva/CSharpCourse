@@ -1,0 +1,6 @@
+D:\Monika 9e\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Monika 9e\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\Monika 9e\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\Monika 9e\kalkulator\kalkulator\obj\Debug\kalkulator.csprojResolveAssemblyReference.cache
+D:\Monika 9e\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\Monika 9e\kalkulator\kalkulator\obj\Debug\kalkulator.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\bin\Debug\RandomEvensAndOdds.exe.config
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\bin\Debug\RandomEvensAndOdds.exe
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\bin\Debug\RandomEvensAndOdds.pdb
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\obj\Debug\RandomEvensAndOdds.csprojAssemblyReference.cache
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\obj\Debug\RandomEvensAndOdds.csproj.CoreCompileInputs.cache
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\obj\Debug\RandomEvensAndOdds.exe
+D:\School\C#\RandomEvensAndOdds\RandomEvensAndOdds\obj\Debug\RandomEvensAndOdds.pdb

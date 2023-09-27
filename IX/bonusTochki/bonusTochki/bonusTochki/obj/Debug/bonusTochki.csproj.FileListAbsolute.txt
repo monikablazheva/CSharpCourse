@@ -1,0 +1,12 @@
+D:\Monika 9e\bonusTochki\bonusTochki\bin\Debug\bonusTochki.exe.config
+D:\Monika 9e\bonusTochki\bonusTochki\bin\Debug\bonusTochki.exe
+D:\Monika 9e\bonusTochki\bonusTochki\bin\Debug\bonusTochki.pdb
+D:\Monika 9e\bonusTochki\bonusTochki\obj\Debug\bonusTochki.exe
+D:\Monika 9e\bonusTochki\bonusTochki\obj\Debug\bonusTochki.pdb
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\bin\Debug\bonusTochki.exe.config
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\bin\Debug\bonusTochki.exe
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\bin\Debug\bonusTochki.pdb
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\obj\Debug\bonusTochki.csprojAssemblyReference.cache
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\obj\Debug\bonusTochki.csproj.CoreCompileInputs.cache
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\obj\Debug\bonusTochki.exe
+D:\School\C#\bonusTochki\bonusTochki\bonusTochki\obj\Debug\bonusTochki.pdb

@@ -1,0 +1,7 @@
+D:\School\C#\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe.config
+D:\School\C#\HTTPServer\HTTPServer\bin\Debug\HTTPServer.exe
+D:\School\C#\HTTPServer\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\School\C#\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csprojAssemblyReference.cache
+D:\School\C#\HTTPServer\HTTPServer\obj\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+D:\School\C#\HTTPServer\HTTPServer\obj\Debug\HTTPServer.exe
+D:\School\C#\HTTPServer\HTTPServer\obj\Debug\HTTPServer.pdb

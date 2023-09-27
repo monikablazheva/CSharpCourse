@@ -1,0 +1,7 @@
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\Exam_Pharmacy.exe.config
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\Exam_Pharmacy.exe
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\bin\Debug\Exam_Pharmacy.pdb
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\Exam_Pharmacy.csprojAssemblyReference.cache
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\Exam_Pharmacy.csproj.CoreCompileInputs.cache
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\Exam_Pharmacy.exe
+D:\School\C#\Exam_Pharmacy\Exam_Pharmacy\obj\Debug\Exam_Pharmacy.pdb

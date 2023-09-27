@@ -1,0 +1,7 @@
+D:\School\C#\FileStream\FileStream\bin\Debug\FileStream.exe.config
+D:\School\C#\FileStream\FileStream\bin\Debug\FileStream.exe
+D:\School\C#\FileStream\FileStream\bin\Debug\FileStream.pdb
+D:\School\C#\FileStream\FileStream\obj\Debug\FileStream.csprojAssemblyReference.cache
+D:\School\C#\FileStream\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+D:\School\C#\FileStream\FileStream\obj\Debug\FileStream.exe
+D:\School\C#\FileStream\FileStream\obj\Debug\FileStream.pdb

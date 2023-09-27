@@ -1,0 +1,7 @@
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\bin\Debug\SearchTheNumber3.exe.config
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\bin\Debug\SearchTheNumber3.exe
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\bin\Debug\SearchTheNumber3.pdb
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\obj\Debug\SearchTheNumber3.csprojAssemblyReference.cache
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\obj\Debug\SearchTheNumber3.csproj.CoreCompileInputs.cache
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\obj\Debug\SearchTheNumber3.exe
+D:\School\C#\SearchTheNumber3\SearchTheNumber3\obj\Debug\SearchTheNumber3.pdb

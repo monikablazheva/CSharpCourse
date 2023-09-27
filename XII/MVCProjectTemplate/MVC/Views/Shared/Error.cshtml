@@ -1,0 +1,13 @@
+﻿@model List<ErrorViewModel>
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Error!</h1>
+
+@{
+    @foreach (var item in Model)
+    {
+        <p>@item.Code => @item.Description</p>
+    }
+}
